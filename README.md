@@ -11,5 +11,5 @@ project-root/
 │   ├── database.py     # Supabase/pgvector connection
 │   └── main.py         # The entry script to run the pipeline
 ├── .env                # API Keys
-└── requirements.txt  # Python dependencies
+└── requirements.txt    # Python dependencies
 ```
