@@ -15,8 +15,14 @@ project-root/
 ```
 
 ## Features
-1. **Clinical Grounding**: The application avoids scraping blog posts, instead, it uses structured, evidence-based frameworks to demonstrate an understanding of the industry's high standards for accuracy.
-- CBT Manuals
-- WHO Guidelines
-- Crisis Protocols
-2. **Chunking**: Split documents into manageable chunks with metadata.
+### Clinical Grounding
+
+The application avoids scraping blog posts, instead, it uses structured, evidence-based frameworks to demonstrate an understanding of the industry's high standards for accuracy, such as:
+- **CBT Manuals**
+- **WHO Guidelines**
+- **Crisis Protocols**
+
+
+### Chunking
+
+Split documents into manageable chunks with metadata.
