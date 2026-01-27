@@ -13,3 +13,10 @@ project-root/
 ├── .env                # API Keys
 └── requirements.txt    # Python dependencies
 ```
+
+## Features
+1. **Clinical Grounding**: The application avoids scraping blog posts, instead, it uses structured, evidence-based frameworks to demonstrate an understanding of the industry's high standards for accuracy.
+- CBT Manuals
+- WHO Guidelines
+- Crisis Protocols
+2. **Chunking**: Split documents into manageable chunks with metadata.
